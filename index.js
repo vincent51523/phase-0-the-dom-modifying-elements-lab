@@ -1,1 +1,1 @@
-// Write your code here!
+document.querySelector.remove('main')
